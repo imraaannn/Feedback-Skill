@@ -1,0 +1,7 @@
+{
+  "utterance": "name",
+  "intent_type": "AskingNameIntent",
+  "intent": {
+    "AskingNameKeyword": "name"
+  }
+}
