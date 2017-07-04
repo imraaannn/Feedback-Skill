@@ -1,0 +1,7 @@
+{
+  "utterance": "Imran here",
+  "intent_type": "AskingNameIntent",
+  "intent": {
+    "AskingNameKeyword": "here"
+  }
+}

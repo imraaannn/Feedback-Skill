@@ -1,0 +1,7 @@
+{
+  "utterance": "I am here to give feedback",
+  "intent_type": "IntroductionIntent",
+  "intent": {
+    "IntroductionKeyword": "feedback"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "utterance": "my number is",
+  "intent_type": "AskingPhoneIntent",
+  "intent": {
+    "AskingPhoneKeyword": "number"
+  }
+}
+
+

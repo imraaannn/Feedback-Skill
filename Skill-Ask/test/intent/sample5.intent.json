@@ -1,0 +1,7 @@
+{
+  "utterance": "the place is very good",
+  "intent_type": "FeedbackIntent",
+  "intent": {
+    "FeebackKeyword": "the"
+  }
+}
